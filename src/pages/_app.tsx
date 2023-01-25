@@ -3,8 +3,6 @@ import Head from 'next/head'
 
 import GlobalStyles from 'styles/global'
 
-const bla
-
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
